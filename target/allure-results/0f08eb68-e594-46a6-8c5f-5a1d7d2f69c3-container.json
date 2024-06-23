@@ -1,1 +1,0 @@
-{"uuid":"0f08eb68-e594-46a6-8c5f-5a1d7d2f69c3","name":"Checking Yandex Market display","children":["1c0d7966-861f-46ed-846b-4c2ff65ded6b"],"befores":[{"name":"setup","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1719141080085,"stop":1719141082321}],"afters":[],"start":1719141080072,"stop":1719141102427}

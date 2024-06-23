@@ -1,1 +1,0 @@
-{"uuid":"06bb18f3-a0f4-4f8b-96ce-7e8d51466eec","name":"Checking the schedule display on the Moscow Polytechnic website","children":["7613c006-c1a9-42a7-bbb9-327f32004670"],"befores":[{"name":"setup","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1719141070620,"stop":1719141072997}],"afters":[],"start":1719141070605,"stop":1719141080019}
