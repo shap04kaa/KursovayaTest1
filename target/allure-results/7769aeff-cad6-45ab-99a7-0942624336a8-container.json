@@ -1,0 +1,1 @@
+{"uuid":"7769aeff-cad6-45ab-99a7-0942624336a8","name":"Check product sorting","children":["d754d506-e1e5-4700-8086-c8fb2f3bb307"],"befores":[{"name":"setup","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1719141058661,"stop":1719141060894}],"afters":[],"start":1719141058653,"stop":1719141070563}

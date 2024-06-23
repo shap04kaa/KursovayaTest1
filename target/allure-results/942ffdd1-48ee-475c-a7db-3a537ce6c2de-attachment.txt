@@ -1,0 +1,1 @@
+[[2024-06-23T12:37:50.039Z] [SEVERE] https://www.lamoda.ru/api/v1/banner/get - Failed to load resource: the server responded with a status of 404 (Not Found), [2024-06-23T12:37:56.845Z] [SEVERE] https://www.lamoda.ru/api/v1/banner/get - Failed to load resource: the server responded with a status of 404 (Not Found)]

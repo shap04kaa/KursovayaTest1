@@ -1,0 +1,11 @@
+tests\MosPolytechTests.class
+driver\TestListener.class
+pageTemplate\MPPage.class
+tests\LamodaTest.class
+pageTemplate\YMPage.class
+tests\YandexTest.class
+pageTemplate\LamodaPage.class
+driver\CustomEvent.class
+tests\LambdaTests.class
+pageTemplate\LambdaPage.class
+driver\DriverSetup.class
